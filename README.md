@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/dev-cpp](https://draculatheme
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/Nxrth-x.png?size=100)](https://github.com/Nxrth-x) |
-| ------------------------------------------------------------------------------------ |
-| [Nxrth-x](https://github.com/Nxrth-x)                                                |
+| [![Eder Lima](https://github.com/Nxrth-x.png?size=100)](https://github.com/Nxrth-x) |
+| ----------------------------------------------------------------------------------- |
+| [Nxrth-x](https://github.com/Nxrth-x)                                               |
 
 ## License
 
