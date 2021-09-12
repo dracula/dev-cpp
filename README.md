@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/dev-cpp](https://draculatheme
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/Nxrth-x/dracula-dev-cpp/graphs/contributors).
 
 | [![Eder Lima](https://github.com/Nxrth-x.png?size=100)](https://github.com/Nxrth-x) |
 | ----------------------------------------------------------------------------------- |
